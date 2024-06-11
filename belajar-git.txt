@@ -2,6 +2,6 @@ WPU resolus
 - satu
 dua
 tiga
-empat
+
 lima
 enam
